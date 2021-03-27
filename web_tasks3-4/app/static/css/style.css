@@ -1,0 +1,22 @@
+.done-todo{
+    text-decoration: line-through !important;
+}
+
+button.btn-edit-todo.btn-primary{
+    float: right !important;
+}
+
+
+.header-block {
+    display: inline-block;
+    width: 86%;
+}
+
+.form-control-lg {
+    font-size: 1.3rem;
+}
+
+.button: hover {
+    background-color: red;
+}
+
